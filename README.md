@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <img align="center" alt="agf-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="agf-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
   
-  <img align="right" alt="agf-pic" height="250" style="border-radius:50px;" src="https://i.pinimg.com/736x/91/01/ae/9101aee6e3c2aad0b0de318ad15c8b9c.jpg">
+  <img align="right" alt="agf-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/736x/91/01/ae/9101aee6e3c2aad0b0de318ad15c8b9c.jpg">
 
 </div>
   
