@@ -43,6 +43,7 @@ Here are some ideas to get you started:
   
   <img align="right" alt="agf-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/736x/91/01/ae/9101aee6e3c2aad0b0de318ad15c8b9c.jpg">
 
+  ![Snake animation](https://github.com/rafaballerini/andreagroferreira/blob/output/github-contribution-grid-snake.svg)
 </div>
   
   ##
