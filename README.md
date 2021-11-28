@@ -73,6 +73,7 @@
      <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/azure-1.png" alt="nodejs"  height="50" style="margin-left:5px;"/> </a>
       <a href="https://aws.amazon.com/pt/s3/?nc2=h_ql_prod_fs_s3" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="nodejs"  height="50" style="margin-left:5px;"/> </a>
       <a href="https://kafka.apache.org/" target="_blank"> <img src="https://kafka.apache.org/logos/kafka_logo--simple.png" alt="nodejs"  height="50" style="margin-left:5px;"/> </a>
+   <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/docker.png" alt="nodejs"  height="50" style="margin-left:5px;"/> </a>
 
 </p>
 <br/>
