@@ -76,11 +76,12 @@
 
 </p>
 <br/>
+
 ## 📊 My Github Stats
 
   <br/>
-   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreagroferreira&layout=compact&langs_count=7&theme=monokai"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=andreagroferreira&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+   <img width="50%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreagroferreira&layout=compact&langs_count=7&theme=monokai"/>
+  <img width="50%" align="center" style="margin-top: 30px;" height="180em" src="https://github-readme-stats.vercel.app/api?username=andreagroferreira&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
