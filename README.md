@@ -1,112 +1,45 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm André Ferreira</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Portugal 🇵🇹.</h3>
+## Hey hey, I’m André 👊
 
-## 🙋‍♂️ About Me
+🤙 I like adventure, so if you want my help with something, hit me up\
+🤝 Taking my first steps in contributing to open-source projects\
+📫 You can [email](mailto:andreagroferreira.af@gmail.com), if you want to collaborate on something, give me feedback, or just have a quick chat.
 
-### 🔭 I’m currently working on **[EVISO SPA](https://www.eviso.it/)** and **[WORTEN](https://www.worten.pt/)**
+---
 
-### 🌱 I’m currently learning **Data Structures and Algorithms.**
+### 👨‍💻 Editor
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 👯 I'm looking to work on international projects with **dynamic teams**
+### 🌍 Operating Systems
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### 👨‍💻 All of my projects are available at **[My Portfolio](https://foxcode.dev)**
+### 🧰 Tech stack
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-### 📫 How to reach me **andreagroferreira.af@gmail.com**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### ⚡ Fun fact **I'm Harry Potter fan ∞ ϟ 9¾ 🏰🧙‍♂️🪄🦁**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-## 🚀 Languages and Tools:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-### **Javascript ecosystem**
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-<p align="left"> 
-    <a href="https://nodejs.org/en/" target="_blank"> <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="50" height="50"/> </a>
-    <a href="https://nestjs.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nodejs" width="50" height="50" style="margin-left:5px;"/> </a>
-    <a href="https://jquery.com/" target="_blank"> <img src="https://jquery.com/jquery-wp-content/themes/jquery/images/logo-jquery@2x.png" alt="nodejs"  height="50" style="margin-left:5px;"/> </a>
-     <a href="https://expressjs.com/" target="_blank"> <img src="https://blog.amt.in/wp-content/uploads/2017/12/e16da876-c2fd-4eb8-ae72-4b193c534938-Edited.png" alt="nodejs"  height="50" style="margin-left:5px;"/> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="nodejs" width="50" height="50" style="margin-left:5px;"/> </a>
-    <a href="https://vuejs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="nodejs" width="50" height="50" style="margin-left:5px;"/> </a>
-    <a href="https://nuxtjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="nodejs" width="50" height="50" style="margin-left:5px;"/> </a>
-</p>
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-### **PHP ecosystem**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-<img src="https://img.icons8.com/dusk/50/000000/php-logo.png"/>
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<p align="left"> 
-    <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/laravel.png" alt="nodejs" width="50" height="50"/> </a>
-    <a href="https://amphp.org/" target="_blank"> <img src="https://amphp.org/asset/img/logo.png" alt="nodejs" width="50" height="50" style="margin-left:5px;"/> </a>
-    <a href="https://framework.zend.com/" target="_blank"> <img src="https://framework.zend.com/img/zend-framework-logo.svg" alt="nodejs" width="150"  height="50" style="margin-left:5px;"/> </a>
-     <a href="https://www.slimframework.com/" target="_blank"> <img src="https://www.botecodigital.dev.br/wp-content/uploads/2021/03/slim.png" alt="nodejs"  height="50" style="margin-left:5px;"/> </a>
-    <a href="https://github.com/topics/timer" target="_blank"> <img src="https://raw.githubusercontent.com/swoole/swoole-src/master/swoole-logo.svg" alt="nodejs" height="50" style="margin-left:5px;"/> </a>
-    <a href="https://phalcon.io/en-us" target="_blank"> <img src="https://assets.phalcon.io/phalcon/images/svg/phalcon-logo-white-105x40.svg" alt="nodejs"  height="50" style="margin-left:5px;"/> </a>
-    <a href="https://codeigniter.com/" target="_blank"> <img src="https://codeigniter.com/assets/icons/ci-footer.png" alt="nodejs" width="50" height="50" style="margin-left:5px;"/> </a>
-</p>
-<br/>
+### 🗃️ Hosting I used
+![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
 
-### **DataBases**
+###### _Thank you <a href="https://github.com/Ileriayo" target="_blank">Ileriayo</a> for the markdown badges._
 
-<img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/50/000000/external-database-data-science-kiranshastry-lineal-color-kiranshastry.png"/>
-
-<p align="left"> 
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="nodejs" width="50" height="50"/> </a>
-    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="nodejs" width="50" height="50" style="margin-left:5px;"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="nodejs" width="50"  height="50" style="margin-left:5px;"/> </a>
-     <a href="https://www.oracle.com/database/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="nodejs"  height="50" style="margin-left:5px;"/> </a>
-      <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://cassandra.apache.org/assets/img/logo-white.svg" alt="nodejs"  height="50" style="margin-left:5px;"/> </a>
-      <a href="https://redis.io" target="_blank"> <img src="https://redis.io/images/redis-white.png" alt="nodejs"  height="50" style="margin-left:5px;"/> </a>
-
-</p>
-
-### **Tools and Infrastructures**
-
-<img src="https://img.icons8.com/fluent/50/000000/cloud-development.png"/>
-
-<p align="left"> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/git.png" alt="nodejs"  width="50" height="50"/> </a>
-    <a href="https://www.heroku.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="nodejs" width="50" height="50" style="margin-left:5px;"/> </a>
-    <a href="https://vercel.com/" target="_blank"><img src="./vercel-icon-light.svg" alt="nodejs" width="50" height="50" style="margin-left:5px;"/> </a>
-     <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/azure-1.png" alt="nodejs"  height="50" style="margin-left:5px;"/> </a>
-      <a href="https://aws.amazon.com/pt/s3/?nc2=h_ql_prod_fs_s3" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="nodejs"  height="50" style="margin-left:5px;"/> </a>
-      <a href="https://kafka.apache.org/" target="_blank"> <img src="https://kafka.apache.org/logos/kafka_logo--simple.png" alt="nodejs"  height="50" style="margin-left:5px;"/> </a>
-   <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/docker.png" alt="nodejs"  height="50" style="margin-left:5px;"/> </a>
-
-</p>
-<br/>
-
-## 📊 My Github Stats
-
-  <br/>
-   <img width="50%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreagroferreira&layout=compact&langs_count=7&theme=monokai"/>
-  <img width="50%" align="center" style="margin-top: 30px;" height="180em" src="https://github-readme-stats.vercel.app/api?username=andreagroferreira&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<br/>
-
-![Snake animation](https://github.com/andreagroferreira/andreagroferreira/blob/output/github-contribution-grid-snake.svg)
-
-<br/>
-<br/>
-
-## Connect with me:
-
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/andre-ferreira-508236113/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/andreagroferrei"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
-</p>
-
-## ❤ Views and Followers
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=andreagroferreira">
-</a>
-<a href="https://github.com/Sandreagroferreira?tab=followers"><img src="https://img.shields.io/github/followers/andreagroferreira?label=Followers&style=social" alt="GitHub Badge"></a>
+<!---
+andreagroferreira/andreagroferreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
